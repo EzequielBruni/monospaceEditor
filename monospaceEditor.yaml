@@ -1,0 +1,5 @@
+name: Monospace Editor
+version: 1.0.0
+description: Literally just makes the raw Markdown editor use your system's monospace font.
+author: Ezequiel Bruni
+licence: MIT
